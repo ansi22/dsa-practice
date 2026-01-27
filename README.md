@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 ## Tree
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
