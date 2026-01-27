@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ansi22/dsa-practice/tree/master/0735-asteroid-collision) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 | [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ansi22/dsa-practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ansi22/dsa-practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/ansi22/dsa-practice/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ansi22/dsa-practice/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ansi22/dsa-practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
