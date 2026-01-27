@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
+| [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ansi22/dsa-practice/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/ansi22/dsa-practice/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
