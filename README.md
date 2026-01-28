@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansi22/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
