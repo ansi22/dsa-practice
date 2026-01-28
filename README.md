@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/ansi22/dsa-practice/tree/master/0402-remove-k-digits) |
 ## Data Stream
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ansi22/dsa-practice/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
