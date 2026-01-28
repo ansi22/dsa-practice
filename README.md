@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ansi22/dsa-practice/tree/master/0735-asteroid-collision) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ansi22/dsa-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ansi22/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/ansi22/dsa-practice/tree/master/1631-path-with-minimum-effort) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 | [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ansi22/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ansi22/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ansi22/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
