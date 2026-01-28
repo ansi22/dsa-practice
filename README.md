@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 ## Design
 |  |
@@ -131,8 +133,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
