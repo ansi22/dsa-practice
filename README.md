@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ansi22/dsa-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ansi22/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ansi22/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/ansi22/dsa-practice/tree/master/0402-remove-k-digits) |
 ## Data Stream
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ansi22/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/ansi22/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ansi22/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
