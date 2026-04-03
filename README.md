@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/ansi22/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansi22/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ansi22/dsa-practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Stack
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ansi22/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
