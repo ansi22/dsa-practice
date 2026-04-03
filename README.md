@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ansi22/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ansi22/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/ansi22/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ansi22/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ansi22/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Matrix
 |  |
