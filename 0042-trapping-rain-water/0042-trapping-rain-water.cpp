@@ -8,6 +8,7 @@ public:
         while(st<=en) {
             maxst=max(h[st], maxst);
             maxen=max(h[en], maxen);
+
             if(h[st]<h[en]) {
                 ans+=abs(maxst-h[st]);
                 st++;
@@ -20,3 +21,8 @@ public:
         return ans;
     }
 };
+
+/*
+ Here the formula is at any i, min(max_prefix[i], max_suffix[i])-a[i];
+ but the catch here is at any given i we have to consider any of max_prefix or max_suffix
+*/
