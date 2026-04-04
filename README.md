@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ansi22/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
