@@ -23,7 +23,22 @@ public:
         head=prev;
         return head;
     }
+
+    ListNode* recursive(ListNode* head) {
+        if(!head or !head->next) {
+            return head;
+        }
+
+        ListNode* newHead = recursive(head->next);
+        ListNode* prev = head->next;
+        prev->next=head;
+        head->next=NULL;
+        return newHead;
+
+    }
+
     ListNode* reverseList(ListNode* head) {
-        return iteration(head);
+        // return iteration(head);
+        return recursive(head);
     }
 };
