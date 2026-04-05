@@ -7,11 +7,11 @@ public:
            node* next;
            node* prev;
            node(int _key, int _val) {
-               key=_key;
-               val=_val;
+            key=_key;
+            val=_val;
            }
     };
-    
+
     int cap;
     unordered_map<int, node*> mp;
 
@@ -32,9 +32,9 @@ public:
         head->next=newNode;
     }
 
-    void deletenode(node* delnode) {
-        node* delprev=delnode->prev;
-        node* delnext=delnode->next;
+    void deletenode(node* delNode) {
+        node* delprev=delNode->prev;
+        node* delnext=delNode->next;
         delnext->prev=delprev;
         delprev->next=delnext;
     }
@@ -50,7 +50,7 @@ public:
         }
         return -1;
     }
-    
+
     void put(int key, int value) {
         if(mp.find(key)!=mp.end()) {
             node* resnode=mp[key];
