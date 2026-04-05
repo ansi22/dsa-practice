@@ -18,6 +18,28 @@ public:
 
         return true;
     }
+
+    bool bfs(vector<vector<int>>& graph, vector<int>& col, int node) {
+        queue<int> q;
+        q.push(node);
+        col[node]=0;
+
+        while(!q.empty()) {
+            auto node=q.front();
+            q.pop();
+
+            for(auto child: graph[node]) {
+                if(col[child]==-1) {
+                    col[child]=col[node]^1;
+                    q.push(child);
+                } else if(col[child]==col[node]) {
+                    return false;
+                }
+            }
+        }
+
+        return true;
+    }
    
     bool isBipartite(vector<vector<int>>& graph) {
         int n=graph.size();
@@ -25,7 +47,7 @@ public:
 
         for(int i=0;i<n;i++) {
             if(col[i]==-1) {
-                if(!dfs(graph, col, i)) {
+                if(!bfs(graph, col, i)) {
                     return false;
                 }
             }
