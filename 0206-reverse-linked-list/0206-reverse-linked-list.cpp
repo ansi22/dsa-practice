@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* iteration(ListNode* head) {
+    ListNode* iterative(ListNode* head) {
         ListNode* prev=NULL, *cur=head, *next_p;
 
         while(cur) {
@@ -24,6 +24,6 @@ public:
         return head;
     }
     ListNode* reverseList(ListNode* head) {
-        return iteration(head);
+        return iterative(head);
     }
 };
