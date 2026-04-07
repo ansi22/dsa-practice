@@ -30,13 +30,12 @@ public:
 
             if(p) p=p->next;
             if(q) q=q->next;
-        }
+        } 
 
         if(carry) {
             cur->next=new ListNode(carry);
         }
 
         return tempo->next;
-
     }
 };
