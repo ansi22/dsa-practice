@@ -14,7 +14,6 @@ public:
         ListNode* tempo=new ListNode(0);
 
         ListNode *p=l1, *q=l2, *cur=tempo;
-
         int carry=0;
 
         while(p or q) {
