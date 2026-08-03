@@ -12,7 +12,6 @@ class Solution {
 public:
     ListNode* iterative(ListNode* head) {
         ListNode* prev=NULL, *cur=head, *next_p;
-
         while(cur) {
             next_p=cur->next;
             cur->next=prev;
@@ -27,3 +26,4 @@ public:
         return iterative(head);
     }
 };
+
