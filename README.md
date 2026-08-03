@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ansi22/dsa-practice/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/ansi22/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ansi22/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ansi22/dsa-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ansi22/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ansi22/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ansi22/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ansi22/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ansi22/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ansi22/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ansi22/dsa-practice/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ansi22/dsa-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
