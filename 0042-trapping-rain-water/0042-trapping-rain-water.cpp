@@ -1,19 +1,19 @@
 class Solution {
 public:
-    int trap(vector<int>& h) {
-        int n=h.size();
+    int trap(vector<int>& height) {
+        int n=height.size();
         int st=0, en=n-1, ans=0;
         int maxst=0, maxen=0;
 
         while(st<=en) {
-            maxst=max(h[st], maxst);
-            maxen=max(h[en], maxen);
+            maxst=max(height[st], maxst);
+            maxen=max(height[en], maxen);
 
-            if(h[st]<h[en]) {
-                ans+=abs(maxst-h[st]);
+            if(height[st]<height[en]) {
+                ans+=abs(maxst-height[st]);
                 st++;
             } else {
-                ans+=abs(maxen-h[en]);
+                ans+=abs(maxen-height[en]);
                 en--;
             }
         }
