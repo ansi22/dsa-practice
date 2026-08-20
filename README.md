@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ansi22/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ansi22/dsa-practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/ansi22/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ansi22/dsa-practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ansi22/dsa-practice/tree/master/0735-asteroid-collision) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/ansi22/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/ansi22/dsa-practice/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ansi22/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/ansi22/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ansi22/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ansi22/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ansi22/dsa-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Matrix
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ansi22/dsa-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
