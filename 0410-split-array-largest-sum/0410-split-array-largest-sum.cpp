@@ -1,39 +1,37 @@
 class Solution {
 public:
-    int memo[1001][51];
-    int getMinimumLargestSplitSum(vector<int>& prefixSum, int cur, int subCnt) {
-        int n=prefixSum.size()-1;
+    int minsureq(vector<int>& nums, int maxu) {
+        int cur=0, splitreq=0;
 
-        if(memo[cur][subCnt]!=-1) {
-            return memo[cur][subCnt];
+        for(auto x: nums) {
+            if(cur+x<=maxu) {
+                cur+=x;
+            } else {
+                cur=x;
+                splitreq++;
+            }
+        }
+        
+        return splitreq+1;
+    }
+    int splitArray(vector<int>& nums, int k) {
+        int su=0, maxi=INT_MIN;
+        for(auto x: nums) {
+            su+=x;
+            maxi=max(maxi, x);
         }
 
-        if(subCnt==1) {
-            return memo[cur][subCnt]=prefixSum[n]-prefixSum[cur];
-        }
-
-        int minlsum=INT_MAX;
-        for(int i=cur;i<=n-subCnt;i++) {
-            int firstSplitSum=prefixSum[i+1]-prefixSum[cur];
-            int largestSplitSum=max(firstSplitSum, getMinimumLargestSplitSum(prefixSum, i+1, subCnt-1));
-            minlsum=min(minlsum, largestSplitSum);
-
-            if(firstSplitSum>=minlsum) {
-                break;
+        int st=maxi, en=su, minlsu=0;
+        while(st<=en) {
+            int maxu=st+(en-st)/2;
+            if(minsureq(nums, maxu)<=k) {
+                en=maxu-1;
+                minlsu=maxu;
+            } else {
+                st=maxu+1;
             }
         }
 
-        return memo[cur][subCnt]=minlsum;
-    }
-    int splitArray(vector<int>& nums, int k) {
-        memset(memo, -1, sizeof(memo));
-        int n=nums.size();
-        vector<int> prefixSum(n+1, 0);
-
-        for(int i=0;i<n;i++) {
-            prefixSum[i+1]=prefixSum[i]+nums[i];
-        }
-
-        return getMinimumLargestSplitSum(prefixSum, 0, k);
+        return minlsu;
     }
 };
