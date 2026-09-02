@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ansi22/dsa-practice/tree/master/0002-add-two-numbers) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
