@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ansi22/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ansi22/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
+| [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/ansi22/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ansi22/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -301,8 +303,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
