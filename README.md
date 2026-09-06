@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ansi22/dsa-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/ansi22/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ansi22/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -295,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ansi22/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/ansi22/dsa-practice/tree/master/0354-russian-doll-envelopes) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
