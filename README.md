@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ansi22/dsa-practice/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ansi22/dsa-practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/ansi22/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ansi22/dsa-practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Matrix
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ansi22/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ansi22/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/ansi22/dsa-practice/tree/master/0402-remove-k-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/ansi22/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 ## Data Stream
 |  |
 | ------- |
