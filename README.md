@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3870-count-commas-in-range](https://github.com/ansi22/dsa-practice/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/ansi22/dsa-practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
