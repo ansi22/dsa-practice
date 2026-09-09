@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ansi22/dsa-practice/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ansi22/dsa-practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ansi22/dsa-practice/tree/master/0410-split-array-largest-sum) |
+| [0458-poor-pigs](https://github.com/ansi22/dsa-practice/tree/master/0458-poor-pigs) |
 | [0940-distinct-subsequences-ii](https://github.com/ansi22/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/ansi22/dsa-practice/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ansi22/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
+| [0458-poor-pigs](https://github.com/ansi22/dsa-practice/tree/master/0458-poor-pigs) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3870-count-commas-in-range](https://github.com/ansi22/dsa-practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ansi22/dsa-practice/tree/master/3871-count-commas-in-range-ii) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ansi22/dsa-practice/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/ansi22/dsa-practice/tree/master/0398-random-pick-index) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/ansi22/dsa-practice/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
