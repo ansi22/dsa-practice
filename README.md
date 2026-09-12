@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/ansi22/dsa-practice/tree/master/1993-operations-on-tree) |
 | [2104-sum-of-subarray-ranges](https://github.com/ansi22/dsa-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ansi22/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ansi22/dsa-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ansi22/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ansi22/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/ansi22/dsa-practice/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ansi22/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ansi22/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/ansi22/dsa-practice/tree/master/0354-russian-doll-envelopes) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ansi22/dsa-practice/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ansi22/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ansi22/dsa-practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ansi22/dsa-practice/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ansi22/dsa-practice/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ansi22/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
