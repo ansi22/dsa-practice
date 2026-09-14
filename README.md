@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ansi22/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansi22/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/ansi22/dsa-practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ansi22/dsa-practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ansi22/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ansi22/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansi22/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/ansi22/dsa-practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ansi22/dsa-practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ansi22/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ansi22/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ansi22/dsa-practice/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/ansi22/dsa-practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ansi22/dsa-practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ansi22/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ansi22/dsa-practice/tree/master/0802-find-eventual-safe-states) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ansi22/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ansi22/dsa-practice/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/ansi22/dsa-practice/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ansi22/dsa-practice/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/ansi22/dsa-practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
